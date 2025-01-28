@@ -13,3 +13,4 @@ xgboost==1.7.6             # For gradient boosting machine learning algorithms
 pycaret==3.0.2             # For low-code machine learning automation
 catboost==1.2.0            # For categorical boosting algorithms
 optuna==3.3.0              # For hyperparameter optimization
+altair==4.2.0
